@@ -2,7 +2,6 @@
 - 🔭 Я в поиске интересных предложений
 - 📫 Моя почта: gowagowa1990@gmail.com
 - 📱 Мой телеграмм: https://t.me/gowa_gowa
-- 💻 Мой сайт: https://gowagowa-cha.github.io/my-portfolio/
 
 ![CodeWars](https://www.codewars.com/users/gowagowa-cha/badges/large)
 ### Стэк технологий который я использовал
