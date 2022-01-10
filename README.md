@@ -13,6 +13,7 @@
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/)
+[![SASS](https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=sass)](https://sass-scss.ru/)
 
 
 <!--
